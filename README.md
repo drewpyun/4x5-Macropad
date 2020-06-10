@@ -37,7 +37,7 @@ It should look something like this
 
 Click flash.
 Your PCB should disconnect and reconnect.
-![Imgur]([Imgur](https://i.imgur.com/j3yEomZ.png)
+![Imgur](https://i.imgur.com/j3yEomZ.png)
 
 Test your pcb and everything should work!
 Contact me at DrewGuy#0718 if you have problems.
