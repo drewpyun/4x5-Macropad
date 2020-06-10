@@ -34,10 +34,10 @@ Change MCU to **atmega32u2**, and open the hex file under local file.
 
 It should look something like this
 ![Imgur](https://i.imgur.com/27WxSBN.png)
-Click flash.
 
+Click flash.
 Your PCB should disconnect and reconnect.
-![Imgur]([Imgur](https://i.imgur.com/j3yEomZ.png))
+![Imgur]([Imgur](https://i.imgur.com/j3yEomZ.png)
 
 Test your pcb and everything should work!
 Contact me at DrewGuy#0718 if you have problems.
