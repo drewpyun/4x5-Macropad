@@ -8,4 +8,5 @@
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty/MX_Only.pretty)(options "")(descr ""))
   (lib (name Package_QFP)(type KiCad)(uri ${KIPRJMOD}/defaultLibrary/Package_QFP)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
 )
